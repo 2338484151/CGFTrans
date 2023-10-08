@@ -11,7 +11,10 @@ For `IU X-Ray`, you can download the dataset from [here](https://drive.google.co
 For `LGK`, come soon.  
 ## Train
 You can study the file "main_train.py" to train the project.  
+## Test
+You can study the file "main_test.py" to test the project. 
 ## Reference codes:
 [https://github.com/cuhksz-nlp/R2Gen](https://github.com/cuhksz-nlp/R2Gen)https://github.com/cuhksz-nlp/R2Gen  
+[https://github.com/cuhksz-nlp/R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN)https://github.com/cuhksz-nlp/R2GenCMN 
 the evaluation metrics are from pycocoevalcap: https://github.com/tylin/coco-caption
 

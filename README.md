@@ -10,7 +10,7 @@ We use two datasets (IU X-Ray and LGK) in our paper.
 For `IU X-Ray`, you can download the dataset from [here](https://drive.google.com/file/d/1c0BXEuDy8Cmm2jfN0YYGkQxFZd2ZIoLg/view?usp=sharing) and then put the files in `data/iu_xray`.  
 For `LGK`, come soon.  
 ## Train
-You can run the file "iu_xrayu_xray.sh" to train the project.  
+You can run the file "train_iu_xray.sh" to train the project.  
 ## Test
 You can use the file "main_test.py" to test the project. 
 ## Reference codes:

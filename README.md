@@ -15,6 +15,6 @@ You can run the file "train_iu_xray.sh" to train the project.
 You can use the file "main_test.py" to test the project. 
 ## Reference codes:
 [https://github.com/cuhksz-nlp/R2Gen](https://github.com/cuhksz-nlp/R2Gen)https://github.com/cuhksz-nlp/R2Gen  
-[https://github.com/cuhksz-nlp/R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN)https://github.com/cuhksz-nlp/R2GenCMN 
+[https://github.com/cuhksz-nlp/R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN)https://github.com/cuhksz-nlp/R2GenCMN  
 the evaluation metrics are from pycocoevalcap: https://github.com/tylin/coco-caption
 
